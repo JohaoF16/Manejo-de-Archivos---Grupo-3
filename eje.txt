@@ -1,0 +1,5 @@
+Nombre:	JOHAO
+Edad
+Años:	20
+Meses:	6
+Días:	20
