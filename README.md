@@ -12,4 +12,9 @@
 
 -Jordan Quishpi
 
-∂f∂x=2a−−√x
+\usepackage{amsmath, amsthm, amssymb}
+
+\begin{equation}
+e^{i\pi} + 1 = 0
+\end{equation}
+
