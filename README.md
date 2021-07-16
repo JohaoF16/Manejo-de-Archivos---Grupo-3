@@ -21,4 +21,4 @@ Porcentaje de Error Obtenido
 
 |      |**Voltaje Total (VA)**|**Voltaje Total de (VA) cuando V2 equivale a 0**|**Voltaje Total de (VA) cuando V1 equivale a 0**|
 |:----:| :----------: | :----:| :----------: |
-| **Error** | -10.65% error | -0.02% error | 0.45% error |
+| **Error** | <img src="https://latex.codecogs.com/svg.latex?-10.65\&space;%" title="-10.65\ %" /> | <img src="https://latex.codecogs.com/svg.latex?-0.02\&space;%" title="-0.02\ %" /> | <img src="https://latex.codecogs.com/svg.latex?0.45\&space;%" title="0.45\ %" /> |
