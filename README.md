@@ -21,5 +21,5 @@
 Porcentaje de Error Obtenido
 
 |      |**Voltaje Total (VA)**|**Voltaje Total de (VA) cuando V2 equivale a 0**|**Voltaje Total de (VA) cuando V1 equivale a 0**|
-|:----:| :----------: | :----:| :----------: | :-----: |
-| **Error** | -10.65 %error| -0.02 %error| 0.45 %error|
+|:----:| :----------: | :----:| :----------: |
+| **Error** | -10.65% error | -0.02% error | 0.45% error |
