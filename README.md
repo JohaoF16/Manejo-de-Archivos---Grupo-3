@@ -23,5 +23,7 @@ Porcentaje de Error Obtenido
 |:----:| :----------: | :----:| :----------: |
 | **Error** | <img src="https://latex.codecogs.com/svg.latex?8.26\&space;%" title="8.26\ %" /> | <img src="https://latex.codecogs.com/svg.latex?0\&space;%" title="0\ %" /> | <img src="https://latex.codecogs.com/svg.latex?0.08\&space;%" title="0.08\ %" /> |
 
-
-
+| ** <img src="https://latex.codecogs.com/svg.latex?V_{TH}\&space;(V)" title="V_{TH}\ (V)" /> **|| ** <img src="https://latex.codecogs.com/svg.latex?R_{TH}\&space;(\Omega)" title="R_{TH}\ (\Omega)" /> ** ||
+| :---: | :---: | :---: | :---: |
+| **Calculado** | **Medido** | **Calculado** | **Medido** |
+| 5.049 | 5.06 | 298.86 | 299 |
