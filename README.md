@@ -43,8 +43,9 @@ Porcentaje de Error Obtenido
 Porcentaje de Error Obtenido para el Circuitp Original
 
 | **Circuito Original** | **Error** |
-| **Voltaje (V)** |  |
-| **Corriente (mA)** |  |
+| :--: | :---: |
+| **Voltaje (V)** | 1 |
+| **Corriente (mA)** | 1 |
 
 
 
