@@ -28,7 +28,11 @@ Porcentaje de Error Obtenido
 | **Calculado** | **Medido** | **Calculado** | **Medido** |
 | 5.049 | 5.06 | 298.86 | 299 |
 
+Porcentaje de Error Obtenido
 
+|      | <img src="https://latex.codecogs.com/svg.latex?V_{TH}\&space;(V)" title="V_{TH}\ (V)" /> | <img src="https://latex.codecogs.com/svg.latex?R_{TH}\&space;(\Omega)" title="R_{TH}\ (\Omega)" /> |
+| :---: | :---: | :---: |
+| Error | <img src="https://latex.codecogs.com/svg.latex?-0.21%" title="-0.21%" /> | <img src="https://latex.codecogs.com/svg.latex?-0.04%" title="-0.04%" /> |      
 
 
 
