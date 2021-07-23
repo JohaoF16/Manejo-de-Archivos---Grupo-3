@@ -34,6 +34,37 @@ Porcentaje de Error Obtenido
 | :---: | :---: | :---: |
 | Error | <img src="https://latex.codecogs.com/svg.latex?-0.21%" title="-0.21%" /> | <img src="https://latex.codecogs.com/svg.latex?-0.04%" title="-0.04%" /> |      
 
+| **Parámetro Eléctrico** | **Circuito Original** || **Circuito Equivalente de Thévenin**||
+| :---: | :---: | :---: | :---: | :---: |
+|| **Calculado** | **Medido** | **Calculado** | **Medido** |
+| **Voltaje (V)** | 3.89 | 3.89 | 3.89 | 3.90 |
+| **Corriente (mA)** | 3.89 | 3.89 | 3.89 | 3.90 |
+
+Porcentaje de Error Obtenido para el Circuitp Original
+
+| **Circuito Original** | **Error** |
+| **Voltaje (V)** |  |
+| **Corriente (mA)** |  |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
