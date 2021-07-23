@@ -40,12 +40,19 @@ Porcentaje de Error Obtenido
 | **Voltaje (V)** | 3.89 | 3.89 | 3.89 | 3.90 |
 | **Corriente (mA)** | 3.89 | 3.89 | 3.89 | 3.90 |
 
-Porcentaje de Error Obtenido para el Circuitp Original
+Porcentaje de Error Obtenido para el Circuito Original
 
 | **Circuito Original** | **Error** |
 | :--: | :---: |
-| **Voltaje (V)** | 1 |
-| **Corriente (mA)** | 1 |
+| **Voltaje (V)** | <img src="https://latex.codecogs.com/svg.latex?0%" title="0%" /> |
+| **Corriente (mA)** | <img src="https://latex.codecogs.com/svg.latex?0%" title="0%" /> |
+
+Porcentaje de Error Obtenido para el Circuito Equivalente de Thévenin
+
+| **Circuito Original** | **Error** |
+| :--: | :---: |
+| **Voltaje (V)** | <img src="https://latex.codecogs.com/svg.latex?-0.26%" title="-0.26%" /> |
+| **Corriente (mA)** | <img src="https://latex.codecogs.com/svg.latex?-0.26%" title="-0.26%" /> |
 
 
 
