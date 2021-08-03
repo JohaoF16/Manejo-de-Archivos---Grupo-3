@@ -42,16 +42,17 @@ Porcentaje de Error Obtenido
 
 
 | <img src="https://latex.codecogs.com/svg.latex?R_L(\Omega)" title="R_L(\Omega)" /> | Corriente Medida <img src="https://latex.codecogs.com/svg.latex?(mA)" title="(mA)" /> | Voltaje Medido <img src="https://latex.codecogs.com/svg.latex?(V)" title="(V)" /> | Potencia calculada experimentalmente <img src="https://latex.codecogs.com/svg.latex?(W)" title="(W)" /> | Potencia calculada teóricamente <img src="https://latex.codecogs.com/svg.latex?(W)" title="(W)" /> |
-| 220 | --- | --- | --- | --- |
-| 470 | --- | --- | --- | --- |
-| 680 | --- | --- | --- | --- |
-| 820 | --- | --- | --- | --- |
-| 1000 | --- | --- | --- | --- |
-| 1500 | --- | --- | --- | --- |
-| 1800 | --- | --- | --- | --- |
-| 2200 | --- | --- | --- | --- |
-| 3900 | --- | --- | --- | --- |
-| 4700 | --- | --- | --- | --- |
+| :--: | :--: | :--: | :--: | :--: |
+| 220 | 1 | 1 | 1 | 1 |
+| 470 | 1 | 1 | 1 | 1 |
+| 680 | 1 | 1 | 1 | 1 |
+| 820 | 1 | 1 | 1 | 1 |
+| 1000 | 1 | 1 | 1 | 1 |
+| 1500 | 1 | 1 | 1 | 1 |
+| 1800 | 1 | 1 | 1 | 1 |
+| 2200 | 1 | 1 | 1 | 1 |
+| 3900 | 1 | 1 | 1 | 1 |
+| 4700 | 1 | 1 | 1 | 1 |
 
 
 
