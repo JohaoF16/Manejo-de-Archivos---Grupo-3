@@ -40,6 +40,34 @@ Porcentaje de Error Obtenido
 | **Voltaje (V)** | 3.89 | 3.89 | 3.89 | 3.90 |
 | **Corriente (mA)** | 3.89 | 3.89 | 3.89 | 3.90 |
 
+
+| <img src="https://latex.codecogs.com/svg.latex?R_L(\Omega)" title="R_L(\Omega)" /> | Corriente Medida <img src="https://latex.codecogs.com/svg.latex?(mA)" title="(mA)" /> | Voltaje Medido <img src="https://latex.codecogs.com/svg.latex?(V)" title="(V)" /> | Potencia calculada experimentalmente <img src="https://latex.codecogs.com/svg.latex?(W)" title="(W)" /> | Potencia calculada teóricamente <img src="https://latex.codecogs.com/svg.latex?(W)" title="(W)" /> |
+| 220 | --- | --- | --- | --- |
+| 470 | --- | --- | --- | --- |
+| 680 | --- | --- | --- | --- |
+| 820 | --- | --- | --- | --- |
+| 1000 | --- | --- | --- | --- |
+| 1500 | --- | --- | --- | --- |
+| 1800 | --- | --- | --- | --- |
+| 2200 | --- | --- | --- | --- |
+| 3900 | --- | --- | --- | --- |
+| 4700 | --- | --- | --- | --- |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Porcentaje de Error Obtenido para el Circuito Original
 
 | **Circuito Original** | **Error** |
