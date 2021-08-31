@@ -20,11 +20,11 @@
 
 
 
-|| <img src="https://latex.codecogs.com/svg.latex?0&space;H_Z" title="0 H_Z" /> | <img src="https://latex.codecogs.com/svg.latex?10&space;H_Z" title="10 H_Z" /> | <img src="https://latex.codecogs.com/svg.latex?50&space;H_Z" title="50 H_Z" /> | <img src="https://latex.codecogs.com/svg.latex?100&space;H_Z" title="100 H_Z" /> | <img src="https://latex.codecogs.com/svg.latex?500&space;H_Z" title="500 H_Z" /> | <img src="https://latex.codecogs.com/svg.latex?1000&space;H_Z" title="1000 H_Z" /> |
+| **Circuito con Inductores** | <img src="https://latex.codecogs.com/svg.latex?0&space;H_Z" title="0 H_Z" /> | <img src="https://latex.codecogs.com/svg.latex?10&space;H_Z" title="10 H_Z" /> | <img src="https://latex.codecogs.com/svg.latex?50&space;H_Z" title="50 H_Z" /> | <img src="https://latex.codecogs.com/svg.latex?100&space;H_Z" title="100 H_Z" /> | <img src="https://latex.codecogs.com/svg.latex?500&space;H_Z" title="500 H_Z" /> | <img src="https://latex.codecogs.com/svg.latex?1000&space;H_Z" title="1000 H_Z" /> |
 | :---: | :----:| :----------: | :-----: | :------------------: | :-----: | :-----: | 
-| Osciloscopio | :----:| :----------: | :-----: | :------------------: | :-----: | :-----: | 
-| Multímetro | :----:| :----------: | :-----: | :------------------: | :-----: | :-----: | 
-| Multímetro | :----:| :----------: | :-----: | :------------------: | :-----: | :-----: | 
+| Osciloscopio | <img src="https://latex.codecogs.com/svg.latex?2.46V" title="2.46V" /> | <img src="https://latex.codecogs.com/svg.latex?314.34mV" title="314.34mV" /> | <img src="https://latex.codecogs.com/svg.latex?1.55V" title="1.55V" /> | <img src="https://latex.codecogs.com/svg.latex?3V" title="3V" /> | <img src="https://latex.codecogs.com/svg.latex?8.44V" title="8.44V" /> | <img src="https://latex.codecogs.com/svg.latex?9.49V" title="9.49V" /> | 
+| Multímetro | <img src="https://latex.codecogs.com/svg.latex?1.913V" title="1.913V" /> | <img src="https://latex.codecogs.com/svg.latex?0.215V" title="0.215V" /> | <img src="https://latex.codecogs.com/svg.latex?1.103V" title="1.103V" /> | <img src="https://latex.codecogs.com/svg.latex?2.084V" title="2.084V" /> | <img src="https://latex.codecogs.com/svg.latex?5.825V" title="5.825V" /> | <img src="https://latex.codecogs.com/svg.latex?6.607V" title="6.607V" /> | 
+| Multímetro | <img src="https://latex.codecogs.com/svg.latex?0.02A" title="0.02A" /> | <img src="https://latex.codecogs.com/svg.latex?0.05A" title="0.05A" /> | <img src="https://latex.codecogs.com/svg.latex?0.01A" title="0.01A" /> | <img src="https://latex.codecogs.com/svg.latex?0.02A" title="0.02A" /> | <img src="https://latex.codecogs.com/svg.latex?0.04A" title="0.04A" /> | <img src="https://latex.codecogs.com/svg.latex?0.02A" title="0.02A" /> | 
 
 
 
