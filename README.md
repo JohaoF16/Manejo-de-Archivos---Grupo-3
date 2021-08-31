@@ -12,10 +12,11 @@
 
 -Jordan Quishpi
 
-|| <img src="https://latex.codecogs.com/svg.latex?0&space;H_Z" title="0 H_Z" /> | <img src="https://latex.codecogs.com/svg.latex?10&space;H_Z" title="10 H_Z" /> | <img src="https://latex.codecogs.com/svg.latex?50&space;H_Z" title="50 H_Z" /> | <img src="https://latex.codecogs.com/svg.latex?100&space;H_Z" title="100 H_Z" /> | <img src="https://latex.codecogs.com/svg.latex?500&space;H_Z" title="500 H_Z" /> | <img src="https://latex.codecogs.com/svg.latex?1000&space;H_Z" title="1000 H_Z" /> |
+| | <img src="https://latex.codecogs.com/svg.latex?0&space;H_Z" title="0 H_Z" /> | <img src="https://latex.codecogs.com/svg.latex?10&space;H_Z" title="10 H_Z" /> | <img src="https://latex.codecogs.com/svg.latex?50&space;H_Z" title="50 H_Z" /> | <img src="https://latex.codecogs.com/svg.latex?100&space;H_Z" title="100 H_Z" /> | <img src="https://latex.codecogs.com/svg.latex?500&space;H_Z" title="500 H_Z" /> | <img src="https://latex.codecogs.com/svg.latex?1000&space;H_Z" title="1000 H_Z" /> |
+| :---: | :----:| :----------: | :-----: | :------------------: | :-----: | :-----: | 
 | Osciloscopio | <img src="https://latex.codecogs.com/svg.latex?6.93V" title="6.93V" />| <img src="https://latex.codecogs.com/svg.latex?9.91V" title="9.91V" /> | <img src="https://latex.codecogs.com/svg.latex?8.46V" title="8.46V" /> | <img src="https://latex.codecogs.com/svg.latex?6.92V" title="6.92V" /> | <img src="https://latex.codecogs.com/svg.latex?1.61V" title="1.61V" /> | <img src="https://latex.codecogs.com/svg.latex?930.35mV" title="930.35mV" /> | 
 | Multímetro | <img src="https://latex.codecogs.com/svg.latex?6.603V" title="6.603V" /> |  |  |  |  |  | 
-| Multímetro | :----:| :----------: | :-----: | :------------------: | :-----: | :-----: | 
+| Multímetro | |  |  |  |  |  | 
 
 
 || <img src="https://latex.codecogs.com/svg.latex?0&space;H_Z" title="0 H_Z" /> | <img src="https://latex.codecogs.com/svg.latex?10&space;H_Z" title="10 H_Z" /> | <img src="https://latex.codecogs.com/svg.latex?50&space;H_Z" title="50 H_Z" /> | <img src="https://latex.codecogs.com/svg.latex?100&space;H_Z" title="100 H_Z" /> | <img src="https://latex.codecogs.com/svg.latex?500&space;H_Z" title="500 H_Z" /> | <img src="https://latex.codecogs.com/svg.latex?1000&space;H_Z" title="1000 H_Z" /> |
